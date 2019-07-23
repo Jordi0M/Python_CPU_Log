@@ -36,12 +36,8 @@ Para poder saber si se están guardando bien los registros, podemos utilizar WMI
 A la hora de ejecutar el programa, necesitaremos tener en una variable local de Python.
 Una vez tengamos la variable local, podremos utilizar un cmd para el archivo “server.py”
 
-***
     python server.py
-***
 
 Y necesitaremos otra consola para ejecutar el sensor, pero esta, tendrá que ser con privilegios de administrador
 
-***
     python sensor_mote.py
-***
