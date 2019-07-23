@@ -1,7 +1,0 @@
----- Dentro de la carpeta "necesario" -----
-instalamos python
-instalamos WMI
-ejecutamos CPU Thermometer
-
----- CMD ---
-pip install pypiwin32
